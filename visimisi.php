@@ -70,7 +70,7 @@
       </nav>
 
       <!--Image-->
-      <img src="image/diving.png" alt="..." style="width:100%; height:300px; position: relative; z-index: 1;">
+      <img src="diving.png" alt="..." style="width:100%; height:300px; position: relative; z-index: 1;">
         <div class="container">
             <h1 style="position: absolute; top: 300px; z-index: 2; color: white;">Visi Misi</h1>
             <h6 style="position: absolute; top: 370px; z-index: 2; color: white;">Home / Profil / Visi Misi</h6>
