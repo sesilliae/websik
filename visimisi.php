@@ -23,17 +23,17 @@
           <div class="collapse navbar-collapse" id="navbarNavDropdown">
             <ul class="navbar-nav ml-auto">
               <li class="nav-item">
-                <a class="nav-link active" aria-current="page" href="index.html">Beranda</a>
+                <a class="nav-link active" aria-current="page" href="index.php">Beranda</a>
               </li>
               <li class="nav-item dropdown">
                 <a class="nav-link dropdown-toggle" href="#" id="navbarScrollingDropdown" role="button" data-bs-toggle="dropdown" aria-expanded="false">
                   Profil
                 </a>
                 <ul class="dropdown-menu" aria-labelledby="navbarScrollingDropdown">
-                  <li><a class="dropdown-item" href="script/sejarah.html">Sejarah</a></li>
-                  <li><a class="dropdown-item" href="script/visimisi.html">Visi Misi</a></li>
-                  <li><a class="dropdown-item" href="script/strukturorganisasi.html">Struktur Organisasi</a></li>
-                  <li><a class="dropdown-item" href="script/dosen.html">Dosen</a></li>
+                  <li><a class="dropdown-item" href="sejarah.php">Sejarah</a></li>
+                  <li><a class="dropdown-item" href="visimisi.php">Visi Misi</a></li>
+                  <li><a class="dropdown-item" href="strukturorganisasi.php">Struktur Organisasi</a></li>
+                  <li><a class="dropdown-item" href="dosen.php">Dosen</a></li>
                 </ul>
               </li>
               <li class="nav-item dropdown">
@@ -41,12 +41,12 @@
                   Akademik
                 </a>
                 <ul class="dropdown-menu" aria-labelledby="navbarScrollingDropdown">
-                  <li><a class="dropdown-item" href="script/kurikulum.html">Kurikulum</a></li>
-                  <li><a class="dropdown-item" href="script/laboratorium.html">Laboratorium</a></li>
+                  <li><a class="dropdown-item" href="kurikulum.php">Kurikulum</a></li>
+                  <li><a class="dropdown-item" href="laboratorium.php">Laboratorium</a></li>
                 </ul>
               </li>
               <li class="nav-item">
-                <a class="nav-link" href="script/akreditasi.html">Akreditasi</a>
+                <a class="nav-link" href="akreditasi.php">Akreditasi</a>
               </li>
               <li class="nav-item dropdown">
                 <a class="nav-link dropdown-toggle" href="#" id="navbarScrollingDropdown" role="button" data-bs-toggle="dropdown" aria-expanded="false">
@@ -60,7 +60,7 @@
                 </ul>
               </li>
               <li class="nav-item">
-               <a class="nav-link" href="script/FAQ.html">FAQ</a>
+               <a class="nav-link" href="FAQ.php">FAQ</a>
               </li>
               <li class="nav-item">
                 <a class="nav-link" href="https://www.himataska.web.id/">HIMATASKA</a>
@@ -68,7 +68,7 @@
           </div>
         </div>
       </nav>
-
+  
       <!--Image-->
       <img src="diving.png" alt="..." style="width:100%; height:300px; position: relative; z-index: 1;">
         <div class="container">
